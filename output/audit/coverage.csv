@@ -1,0 +1,6 @@
+file,rows,units,periods,first,last,balanced,duplicate_keys,missing_cells,coordinates_exported
+1_ntl_district_annual.csv,3927,119,33,1992,2024,True,0,0,False
+2_ntl_rings_projects.csv,5676,172,33,1992,2024,True,0,0,False
+3_ntl_rings_roads.csv,792,24,33,1992,2024,True,0,0,False
+4_builtup_district.csv,952,119,8,1990,2025,True,0,0,False
+6_no2_monthly.csv,1344,16,84,2018-07,2025-06,True,0,0,False

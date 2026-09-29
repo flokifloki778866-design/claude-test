@@ -1,0 +1,32 @@
+file,column,dtype,n_unique,n_missing,min,max,examples
+1_ntl_district_annual.csv,district,str,119,0,,,Nasirabad District; Quetta District; Sibi District; Zhob District
+1_ntl_district_annual.csv,ntl_mean,float64,3911,0,0.0,62.99522543540775,0.6669528983888027; 4.722390165628788; 0.2922401696506757; 0.0267143383724898
+1_ntl_district_annual.csv,province,str,6,0,,,Balochistan; North-West Frontier; Sindh; Federally Administered Tribal Areas
+1_ntl_district_annual.csv,sensor,str,2,0,,,DMSP; VIIRS
+1_ntl_district_annual.csv,year,int64,33,0,1992,2024,1992; 1993; 1994; 1995
+2_ntl_rings_projects.csv,ntl_mean,float64,2957,0,0.0,54.12778372478645,0.0; 0.0200178294691918; 0.0405987313544872; 0.199308045685217
+2_ntl_rings_projects.csv,ring_hi_km,int64,4,0,10,100,10; 25; 50; 100
+2_ntl_rings_projects.csv,ring_lo_km,int64,4,0,0,50,0; 10; 25; 50
+2_ntl_rings_projects.csv,sensor,str,2,0,,,DMSP; VIIRS
+2_ntl_rings_projects.csv,uid,int64,43,0,35127,92503,35127; 37233; 39013; 39014
+2_ntl_rings_projects.csv,year,int64,33,0,1992,2024,1992; 1993; 1994; 1995
+3_ntl_rings_roads.csv,ntl_mean,float64,792,0,0.0109893695168085,11.863787422926976,5.489514619216441; 5.792338564228727; 3.323641711200715; 2.0359275071365
+3_ntl_rings_roads.csv,ring_hi_km,int64,4,0,10,100,10; 25; 50; 100
+3_ntl_rings_roads.csv,ring_lo_km,int64,4,0,0,50,0; 10; 25; 50
+3_ntl_rings_roads.csv,sensor,str,2,0,,,DMSP; VIIRS
+3_ntl_rings_roads.csv,uid,str,6,0,,,M-5; M-8; M-14; N-30
+3_ntl_rings_roads.csv,year,int64,33,0,1992,2024,1992; 1993; 1994; 1995
+4_builtup_district.csv,built_m2,float64,952,0,108100.8980392157,228953733.5019606,4478058.239215685; 24471446.811764702; 2396225.274509804; 1856850.2549019605
+4_builtup_district.csv,district,str,119,0,,,Nasirabad District; Quetta District; Sibi District; Zhob District
+4_builtup_district.csv,province,str,6,0,,,Balochistan; North-West Frontier; Sindh; Federally Administered Tribal Areas
+4_builtup_district.csv,year,int64,8,0,1990,2025,1990; 1995; 2000; 2005
+6_no2_monthly.csv,commissioned,str,8,0,,,2017-10-28; 2018-04-25; 2019-08-17; 2019-07-10
+6_no2_monthly.csv,date,str,84,0,,,2018-07; 2018-08; 2018-09; 2018-10
+6_no2_monthly.csv,fuel,str,2,0,,,coal; hydro
+6_no2_monthly.csv,month,int64,12,0,1,12,7; 8; 9; 10
+6_no2_monthly.csv,mw,int64,5,0,330,1320,1320; 660; 330; 720
+6_no2_monthly.csv,name,str,8,0,,,Sahiwal; PortQasim; Hub; EngroThar
+6_no2_monthly.csv,product,str,1,0,,,S5P_NO2
+6_no2_monthly.csv,ring,str,2,0,,,core; control
+6_no2_monthly.csv,value,float64,1344,0,1.3905792252474946e-06,0.0001346414683344675,5.11024057987124e-05; 4.305233495121173e-05; 3.588046817169342e-05; 1.8802956452335617e-05
+6_no2_monthly.csv,year,int64,8,0,2018,2025,2018; 2019; 2020; 2021

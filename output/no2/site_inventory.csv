@@ -1,0 +1,9 @@
+name,fuel,mw,commissioned,pre_months,post_months,core_mean,control_mean,diff_mean,max_core_corr_other_site,most_correlated_site,assessment
+Sahiwal,coal,1320,2017-10-28,0,84,46.18,41.73,4.45,0.43,Karot_hydro,no pre-period (COD before S5P series starts)
+PortQasim,coal,1320,2018-04-25,0,84,71.41,24.38,47.03,0.81,Hub,no pre-period (COD before S5P series starts)
+Hub,coal,1320,2019-08-17,13,71,36.35,23.38,12.97,0.81,PortQasim,"usable, but <2 pre-years (one seasonal cycle)"
+EngroThar,coal,660,2019-07-10,12,72,24.79,18.81,5.98,1.0,ThalNova,same footprint as ThalNova: not an independent site
+SSRL_Thar,coal,1320,2021-02-25,31,53,25.51,23.29,2.22,0.39,EngroThar,usable
+ThalNova,coal,330,2022-02-17,43,41,25.29,18.64,6.64,1.0,EngroThar,same footprint as EngroThar: not an independent site
+Karot_hydro,hydro,720,2022-06-29,47,37,25.08,29.03,-3.95,0.46,SukiKinari_hydro,usable
+SukiKinari_hydro,hydro,884,2024-09-13,74,10,8.28,13.92,-5.64,0.46,Karot_hydro,usable

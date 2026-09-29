@@ -1,0 +1,4 @@
+file,cells,dmsp_years,viirs_years,overlap_years,dmsp_share_zero,dmsp_max,dmsp_cells_at_63,median_dlog_2011_2012,median_dlog_2012_2013,median_dlog_2013_2014,median_dlog_2014_2015,median_dlog_2015_2016,corr_log_2013_2014,corr_log_2012_2013
+1_ntl_district_annual.csv,119,1992-2013,2014-2024,0,0.006,63.0,42,0.078,-0.064,-1.998,0.003,-0.14,0.796,0.994
+2_ntl_rings_projects.csv,172,1992-2013,2014-2024,0,0.021,54.13,0,0.089,-0.07,-2.202,0.026,-0.016,0.733,0.994
+3_ntl_rings_roads.csv,24,1992-2013,2014-2024,0,0.0,11.86,0,0.098,-0.082,-1.873,0.0,-0.179,0.888,0.998
